@@ -1,4 +1,8 @@
-# Групповой проект студентов Яндекс.Практикум по курсу "API: интерфейс взаимодействия программ"
+# Сервис для работы с отзывами
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 ## Описание
 
@@ -24,12 +28,6 @@
 - Фильтрация по полям.
 
 #### Документация к API доступна по адресу [http://127.0.0.1:8000/redoc/](http://127.0.0.1:8000/redoc/) после запуска сервера с проектом
-
-#### Технологии
-
-- Python 3.9
-- Django 3.2
-- Django Rest Framework 3.12.4
 
 #### Запуск проекта в dev-режиме
 
@@ -72,6 +70,8 @@
 #### Полный список запросов API находятся в документации
 
 #### Авторы
-- Андрей Балакин
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Михаил Волков
-- Павел Марычев
+- <a href="https://github.com/usdocs">Андрей Балакин</a>
+- <a href="https://github.com/irbisfx">Павел Марычев</a>
